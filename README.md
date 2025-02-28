@@ -20,8 +20,6 @@
 
 With a B.E. in Electronics and Telecommunication (ENTC) and advanced training in HPC from C-DAC Bangalore, I bridge theory with practical expertise. Passionate about solving real-world problems with technology, I thrive on continuous learning and innovation in high-performance computing.
 
-I am passionate about leveraging technology to solve real-world problems and look forward to contributing to cutting-edge projects in HPC and related fields. I am driven by a continuous learning mindset and a strong commitment to excellence, seeking oportunities to grow in the dynamic field of high-performance computing.
-
 -------------------------------------------------------------------------------------------------------
 🛠️ Tech Stack
 -------------------------------------------------------------------------------------------------------
