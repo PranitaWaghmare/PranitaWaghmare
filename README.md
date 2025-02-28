@@ -10,15 +10,11 @@
 
 🐱 GitHub: github.com/PranitaWaghmare	
 
-🎨 Welcome to My GitHub Profile!
+###🎨 Welcome to My GitHub Profile!
 
 "Crafting efficiency, one script at a time."
 
 
-
-🎨 Welcome to My GitHub Profile!
-
-"Crafting efficiency, one script at a time."
 
 
 
