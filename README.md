@@ -18,7 +18,7 @@
 👩💻 About Me
 --------------------------------------------------------------------------------------------------------
 
-With a B.E. in Electronics and Telecommunication (ENTC) and advanced training in HPC from C-DAC Bangalore, I bridge theory with practical expertise. Passionate about solving real-world problems with technology, I thrive on continuous learning and innovation in high-performance computing.
+With a B.E. in Electronics and Telecommunication (ENTC) and advanced training in HPC from C-DAC, I bridge theory with practical expertise. Passionate about solving real-world problems with technology, I thrive on continuous learning and innovation in high-performance computing.
 
 -------------------------------------------------------------------------------------------------------
 🛠️ Tech Stack
