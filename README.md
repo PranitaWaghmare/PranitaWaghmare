@@ -6,6 +6,18 @@
 
 📞 Phone: +91 7522950374
 
+🔗 LinkedIn:www.linkedin.com/in/pranita-waghmare27
+
+🐱 GitHub: github.com/PranitaWaghmare	
+
+🎨 Welcome to My GitHub Profile!
+
+"Crafting efficiency, one script at a time."
+
+
+
+
+
 
 
 
