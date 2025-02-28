@@ -4,6 +4,8 @@
 
 📧 Email: pranitarwaghmare@gmail.com
 
+📞 Phone: +91 7522950374
+
 
 
 
