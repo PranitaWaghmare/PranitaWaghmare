@@ -47,7 +47,11 @@ Python
 -------------------------------------------------------------------------------------------------------
 Stock Market Analysis Using SLURM
 
-📅 Jan 2025🔧 Tech: SLURM, Python, Bash, Linux📝 Description: Designed an HPC-based pipeline to process and analyze stock market data in parallel using SLURM. Automated job scheduling and resource allocation for efficient computation.
+📅 Jan 2025🔧 
+
+Tech: SLURM, Python, Bash, Linux
+
+📝 Description: Designed an HPC-based pipeline to process and analyze stock market data in parallel using SLURM. Automated job scheduling and resource allocation for efficient computation.
 
 
 
