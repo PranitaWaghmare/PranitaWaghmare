@@ -9,8 +9,8 @@
 🔗 LinkedIn:www.linkedin.com/in/pranita-waghmare27
 
 🐱 GitHub: github.com/PranitaWaghmare	
-
-###🎨 Welcome to My GitHub Profile!
+-------------------------------------------------------------------------------------------------------
+🎨 Welcome to My GitHub Profile!
 
 "Crafting efficiency, one script at a time."
 
