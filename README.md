@@ -53,7 +53,7 @@ Tech: SLURM, Python, Bash, Linux
 
 📝 Description: Designed an HPC-based pipeline to process and analyze stock market data in parallel using SLURM. Automated job scheduling and resource allocation for efficient computation.
 
-
+---------------------------------------------------------------------------------------------------------
 
 
 
